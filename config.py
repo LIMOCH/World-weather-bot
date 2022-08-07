@@ -1,0 +1,2 @@
+TOKEN = "5390419234:AAFLbqY9zwQCQ0fHlM1QDJFHjz7zlnzr5b4"
+weathertoken = "e60d3a4a60addc577895f9605b981d70"
